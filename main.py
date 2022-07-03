@@ -49,7 +49,7 @@ if method == '1':
 			print("\n\x1b[92mPassword Found: \x1b[00m{}".format(password))
 			end = time.time()
 			t = str(end - start)[:4]
-			print("\x1b[92mTime: \x1b[00m{}ms\n".format(t))
+			print("\x1b[92mSpeed: \x1b[00m{}ms\n".format(t))
 			time.sleep(1)
 			sys.exit()
 		else:
