@@ -1,6 +1,6 @@
 ### Hash Cracker
 
-<p>A tool to crack hashes written in python3</p>
+<p>A tool written in python3 to crack hashes</p>
 
 ### Screenshot
 
