@@ -5,7 +5,7 @@
 ### Screenshot
 
 <p align="center">
-    <img src=".screenshot/screenshot.png">
+    <img src="./screenshot.png">
 </p>
 
 ### Installation
